@@ -48,49 +48,7 @@ To set up the environment and run the code, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage
-
-Run any of the scripts in the `scripts/` directory to perform specific NLP tasks. For example:
-
-```bash
-python scripts/text_classification.py
-```
-
-Replace `text_classification.py` with the desired script name.
-
-## Directory Structure
-
-```
-natural-language-processing/
-│
-├── data/                 # Datasets used in the project
-├── models/               # Pre-trained and saved models
-├── notebooks/            # Jupyter notebooks for experimentation
-├── scripts/              # Python scripts for various NLP tasks
-├── requirements.txt      # Dependencies
-├── README.md             # Project documentation
-└── LICENSE               # License file
-```
-
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
-
----
-
+Contributions are welcome! Open a pull request.
 Feel free to explore, contribute, and use the resources provided here to build your own NLP solutions!
